@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color:steel blue;
+  background-color:sky blue;
   color: #333;
   line-height: 1.6;
 }
@@ -24,7 +24,7 @@ body {
 
 /* ===== Header ===== */
 header {
-  background: linear-gradient(135deg, steel blue, black);
+  background: linear-gradient(135deg, sky blue, black);
   color: white;
   padding: 60px 0;
   text-align: center;
