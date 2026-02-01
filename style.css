@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color:#3C3F58;
+  background-color:steel blue;
   color: #333;
   line-height: 1.6;
 }
@@ -24,7 +24,7 @@ body {
 
 /* ===== Header ===== */
 header {
-  background: linear-gradient(135deg, #707793, black);
+  background: linear-gradient(135deg, steel blue, black);
   color: white;
   padding: 60px 0;
   text-align: center;
@@ -59,7 +59,7 @@ nav ul li {
 
 nav ul li a {
   text-decoration: none;
-  color: #4f46e5;
+  color: black;
   font-weight: 500;
 }
 
@@ -79,7 +79,7 @@ section {
 section h2 {
   font-size: 1.8rem;
   margin-bottom: 20px;
-  color: #CC527A;
+  color: steel blue;
 }
 
 section p {
@@ -116,7 +116,7 @@ section p {
 .btn {
   display: inline-block;
   padding: 12px 25px;
-  background: #4f46e5;
+  background: steel blue;
   color: white;
   border-radius: 30px;
   text-decoration: none;
@@ -136,7 +136,7 @@ section p {
 footer {
   text-align: center;
   padding: 20px 0;
-  background:#3C3F58;
+  background:steel blue;
   color: #d1d5db;
   font-size: 0.9rem;
 }
