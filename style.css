@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: light blue;
+  background-color: #3C3F58;
   color: #333;
   line-height: 1.6;
 }
@@ -24,7 +24,7 @@ body {
 
 /* ===== Header ===== */
 header {
-  background: linear-gradient(135deg, sky blue, black);
+  background: linear-gradient(135deg, #707793, black);
   color: white;
   padding: 60px 0;
   text-align: center;
@@ -79,7 +79,7 @@ section {
 section h2 {
   font-size: 1.8rem;
   margin-bottom: 20px;
-  color: #4f46e5;
+  color: #CC527A;
 }
 
 section p {
@@ -95,7 +95,7 @@ section p {
 }
 
 .skill-box {
-  background: #eef2ff;
+  background: GREAY;
   padding: 15px;
   text-align: center;
   border-radius: 8px;
@@ -136,7 +136,7 @@ section p {
 footer {
   text-align: center;
   padding: 20px 0;
-  background:sky blue;
+  background:#3C3F58;
   color: #d1d5db;
   font-size: 0.9rem;
 }
